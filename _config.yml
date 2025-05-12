@@ -1,9 +1,9 @@
 title: "Carla Reis"
 description: "Apaixonada por tecnologia e sempre em busca de novos desafios"
 url: "https://carlareis.github.io"
-remote_theme: "jekyll/minimal-mistakes"
-incremental: true
+remote_theme: "mmistakes/minimal-mistakes@4.27.1"
 plugins:
+  - jekyll-include-cache
   - jekyll-remote-theme
 author:
   name: "Carla Reis"
