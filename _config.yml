@@ -1,0 +1,20 @@
+title: "Carla Reis"
+description: "Apaixonada por tecnologia e sempre em busca de novos desafios"
+url: "https://carlareis.github.io"
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-remote-theme
+author:
+  name: "Carla Reis"
+  avatar: "/assets/images/avatar.jpg"
+  bio: "Apaixonada por tecnologia e sempre em busca de novos desafios"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/carla-reis-cr"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/carla-reis-60888413b/"
+    - label: "Instagram"
+      icon: "fab fa-instagram"
+      url: "https://www.instagram.com/carlareis.dev/"
